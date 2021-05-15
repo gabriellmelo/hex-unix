@@ -1,1 +1,1 @@
-Para esse diret√rio foi desenvolvido no curso li√√es de Git e Github e Shell Unix 
+Para esse direto√rio foi desenvolvido no curso lco√√es de Git e Github e Shell Unix 
